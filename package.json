@@ -26,7 +26,7 @@
     "browserify": "^14.5.0",
     "budo": "^10.0.4",
     "clean-css-cli": "^4.1.10",
-    "htmlprocessor": "^0.2.6",
+    "htmlprocessor": "^0.3.2",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
     "uglify-js": "^3.1.6"
